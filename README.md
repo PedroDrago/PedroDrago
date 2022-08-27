@@ -2,7 +2,6 @@
 <p>Inicialmente estudante autodidata de desenvolvimento Web e atualmente estudante universitário de Análise e Desenvolvimento de Sistemas.</p>
 <div align="center">
   <a href="https://github.com/PeterJPD">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PeterJPD&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterJPD&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
 
