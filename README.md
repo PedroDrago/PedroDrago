@@ -1,16 +1,9 @@
-<!-- <a href="https://github.com/PeterJPD">
-<div align="center">
-<a href="github.com/PeterJPD">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PeterJPD&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterJPD&layout=compact&langs_count=7&theme=dark"/>
-</div>
- -->
 <h3>Oi, eu sou Pedro Drago</h3>
 <p>Inicialmente estudante autodidata de desenvolvimento Web e atualmente estudante universitário de Análise e Desenvolvimento de Sistemas.</p>
 <div align="center">
   <a href="https://github.com/PeterJPD">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PeterJPD&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterJPD&layout=compact&langs_count=7&theme=slateorange"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PeterJPD&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterJPD&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
 
 <div>
