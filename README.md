@@ -1,18 +1,31 @@
-<h3>Oi, eu sou Pedro Drago</h3>
-<p>Inicialmente estudante autodidata de desenvolvimento Web e atualmente estudante universitário de Análise e Desenvolvimento de Sistemas.</p>
-<div align="center">
-  <a href="https://github.com/PeterJPD">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterJPD&layout=compact&langs_count=7&theme=slateorange"/>
+<img align='right' height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterJPD&layout=compact&langs_count=7&theme=slateorange">
+
+### Oi, me chamo Pedro Drago
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=Pedro Drago&color=f8efd4&style=for-the-badge&logo=GitHub">
+
+<p>
+
+Estudando Análise e Desenvolvimento de Sistemas.<br/>
+
+Estou focado em **Desenvolvimento Web**.
+
+
+</p>
+
+<div>
+
+##
+
 </div>
-
-
-  <h3>Tecnologias</h3>
-
+<h3>Tecnologias</h3>
+<div>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />          
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
 <div>
 
 ##
