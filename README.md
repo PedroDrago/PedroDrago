@@ -8,7 +8,7 @@
 
 Estudando Análise e Desenvolvimento de Sistemas.<br/>
 
-Estou focado em **Desenvolvimento Web**.
+Estou focado em **Desenvolvimento Backend Web**.
 
 
 </p>
