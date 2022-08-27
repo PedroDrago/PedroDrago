@@ -4,7 +4,7 @@
 </div>
  -->
 <h3>Oi, eu sou Pedro Drago</h3>
-<p>Inicialmente estudante autodidata de desenvolvimento Web e atualmente estudante universitário de Análise e Desenvolvimento de Sistemas</p>
+<p>Inicialmente estudante autodidata de desenvolvimento Web e atualmente estudante universitário de Análise e Desenvolvimento de Sistemas.</p>
 <div align="center">
   <a href="https://github.com/PeterJPD">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PeterJPD&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
@@ -28,5 +28,5 @@
 
 </div>
 <div>
-  <img href="https://www.linkedin.com/in/pedro-drago/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/pedro-drago/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </div>
