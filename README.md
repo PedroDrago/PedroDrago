@@ -28,6 +28,15 @@ Estou focado em **Desenvolvimento Backend Web**.
 </div>
 <div>
 
+<div>
+<h3>Aprendendo</h3>
+
+
+<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+          
+          
+</div>
+
 ##
 
 </div>
