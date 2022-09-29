@@ -1,18 +1,17 @@
 
 <div align='center'>
 
-### Oi, me chamo Pedro Drago
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Pedro Drago&color=f8efd4&style=for-the-badge&logo=GitHub">
 <p>
+
+# Oi, me chamo Pedro Drago
+<br/>
+<img src="https://img.shields.io/static/v1?label=Overview&message=Pedro Drago&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 Estudando Análise e Desenvolvimento de Sistemas.<br/>
 
 Estou focado em **Desenvolvimento Backend Web**.
 
-##
-
-<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterJPD&layout=compact&langs_count=7&theme=slateorange">
 
 <div>
 
@@ -27,6 +26,7 @@ Estou focado em **Desenvolvimento Backend Web**.
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
+
 <div>
 
 <div>
@@ -37,6 +37,10 @@ Estou focado em **Desenvolvimento Backend Web**.
           
           
 </div>
+
+##
+
+<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterJPD&layout=compact&langs_count=7&theme=slateorange">
 
 ##
 
