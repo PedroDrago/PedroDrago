@@ -6,9 +6,8 @@
 
 # Oi, me chamo Pedro Drago
 <br/>
-<img src="https://img.shields.io/static/v1?label=Overview&message=Pedro Drago&color=f8efd4&style=for-the-badge&logo=GitHub">
-
-Estudando Análise e Desenvolvimento de Sistemas.<br/>
+Estudando Análise e Desenvolvimento de Sistemas.
+<br/>
 
 Estou focado em **Desenvolvimento Backend Web**.
 
