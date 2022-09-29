@@ -18,7 +18,7 @@ Estou focado em **Desenvolvimento Backend Web**.
 ##
 
 </div>
-<h3>Tecnologias</h3>
+<h3>Skills</h3>
 <div>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -29,7 +29,7 @@ Estou focado em **Desenvolvimento Backend Web**.
 <div>
 
 <div>
-<h3>Aprendendo</h3>
+<h3>Learning</h3>
 
 
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
