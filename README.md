@@ -40,7 +40,7 @@ Estou focado em **Desenvolvimento Backend Web**.
 
 ##
 
-<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterJPD&layout=compact&langs_count=7&theme=slateorange">
+          <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDrago&layout=compact&langs_count=7&theme=slateorange">
 
 ##
 
