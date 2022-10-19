@@ -32,7 +32,11 @@ Estou focado em **Desenvolvimento Backend Web**.
 <h3>Learning</h3>
 
 
+<img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />         
+<img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
 <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+          
+          
           
                     
           
