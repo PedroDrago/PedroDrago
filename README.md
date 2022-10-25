@@ -53,8 +53,17 @@ Estou focado em **Desenvolvimento Backend Web**.
 <div>
   <a href="https://www.linkedin.com/in/pedro-drago/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </div>
+          
+
 
 
 </p>
+
+##
+
+<br>
+<a href="https://pedrodrago.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=accenture"/>
+
 </div>
+
 
