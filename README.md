@@ -44,8 +44,8 @@ Estou focado em **Desenvolvimento Backend Web**.
 
 ##
 
-<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDrago&layout=compact&langs_count=7&theme=slateorange">
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroDrago)](https://github.com/anuraghazra/github-readme-stats)
+          
 ##
 
 </div>
