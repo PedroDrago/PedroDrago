@@ -1,67 +1,46 @@
+<h1 align="center"> Pedro Drago </h1>
 
-<div align='center'>
+    
+<div align="center">
+<b>Software Engineering 💻 | Backend 💎 | Linux enthusiast 🐧 </b>
+<br>
+<br>
 
-
-<p>
-
-# Oi, me chamo Pedro Drago
-<br/>
-Estudando Análise e Desenvolvimento de Sistemas.
-<br/>
-
-Estou focado em **Desenvolvimento Backend Web**.
-
-
-<div>
-
-##
-
-</div>
-<h3>Skills</h3>
-<div>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<blockquote>
+    <p><i>
+        Estudante de análise e desenvolvimento de sistemas, gosto de estudar assuntos como desenvolvimento backend, sistemas operacionais, Linux, Cloud Computing e ciência da computação
+    </i></p>
+</blockquote>
 </div>
 
-<div>
 
-<div>
-<h3>Learning</h3>
+---
 
 
-<img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
-<img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />          
-<img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-          
-          
-                    
-          
-</div>
+<div align="right" style="margin:auto">
+     <a href="https://github.com/PedroDrago">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodrago&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=27&langs_count=10&theme=github_dark&title_color=4a86d1&custom_title=My%20favorite%20languages"
+       alt="Most used languages" align="right">
+    </a>
+</div> 
+<br>
 
-##
+As tecnologias que ja estudei são **Python**, **Javascript**, **PostgreSQL**, **SQLite**, **Ruby on Rails** e **Linux**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDrago&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)          
-##
-
-</div>
-  <h3>Contato</h3>
-<div>
-  <a href="https://www.linkedin.com/in/pedro-drago/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</div>
-          
-
-
-
-</p>
-
-##
+No momento estou estudando **C#**, **.NET**, **Docker** e **Azure**. 
 
 <br>
-<a href="https://pedrodrago.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=accenture"/>
+<br>
+<br>
 
+---
+
+          
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-drago/)
+[![Hashnode blog](https://img.shields.io/badge/hashnode-2563EB?style=for-the-badge&logo=hashnode&logoColor=white)](https://drago.hashnode.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=accenture)](https://pedrodrago.github.io/Portfolio/)
 </div>
 
 
