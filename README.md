@@ -25,7 +25,7 @@
 </div> 
 <br>
 
-As tecnologias que ja estudei são **Python**, **Javascript**, **PostgreSQL**, **SQLite**, **Ruby on Rails** e **Linux**.
+As tecnologias que ja estudei são **Python**, **C/C++**, **Javascript**, **PostgreSQL**, **SQLite**, **Ruby on Rails** e **Linux**.
 
 No momento estou estudando **C#**, **.NET**, **Docker** e **Azure**. 
 
