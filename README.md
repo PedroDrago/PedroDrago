@@ -2,7 +2,7 @@
 
     
 <div align="center">
-<b>Software Engineering 💻 | Backend 💎 | Linux enthusiast 🐧 </b>
+<b>Software Engineering 💻 | Linux enthusiast 🐧 </b>
 <br>
 <br>
 
