@@ -8,7 +8,7 @@
 
 <blockquote>
     <p><i>
-        Estudante de análise e desenvolvimento de sistemas, gosto de estudar assuntos como desenvolvimento backend, sistemas operacionais, Linux, Cloud Computing e ciência da computação
+        Estudante de análise e desenvolvimento de sistemas, gosto de estudar assuntos como engenharia de software, sistemas operacionais, Linux, Cloud Computing e ciência da computação
     </i></p>
 </blockquote>
 </div>
