@@ -13,9 +13,6 @@
     </i></p>    
 </blockquote>
 </div>
-<div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDrago)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 <br>
 <br>
