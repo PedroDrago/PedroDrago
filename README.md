@@ -10,6 +10,7 @@
     <p><i>
         Estudante de análise e desenvolvimento de sistemas, gosto de estudar assuntos como engenharia de software, Linux, Cloud Computing e ciência da computação
     </i></p>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDrago)](https://github.com/anuraghazra/github-readme-stats)
 </blockquote>
 </div>
 
