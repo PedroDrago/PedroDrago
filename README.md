@@ -3,13 +3,13 @@
 
     
 <div align="center">
-<b>Software Engineering 👨‍💻| Computer Science 💻  | Linux enthusiast 🐧 </b>
+<b>Software Engineering | Linux enthusiast 🐧 | VimNinja Wannabe 🥷 </b>
 <br>
 <br>
 
 <blockquote>
     <p><i>
-        Estudante de análise e desenvolvimento de sistemas, gosto de estudar assuntos como engenharia de software, Linux, Cloud Computing e ciência da computação
+        Estudante de Engenharia de Software na escola 42 Rio. Gosto de assuntos como engenharia de software, Linux, Cloud Computing, Vim e ciência da computação como um todo.
     </i></p>    
 </blockquote>
 </div>
