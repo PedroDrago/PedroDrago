@@ -1,16 +1,11 @@
 <h1 align="center"> Pedro Drago </h1>
-
-
     
 <div align="center">
-<b>Software Engineering | Linux enthusiast 🐧 | VimNinja Wannabe 🥷 | [42 Rio](https://42.rio/) </b>
+<b>Software Engineering | Linux enthusiast 🐧 | VimNinja Wannabe 🥷 | </b>
 <br>
 <br>
-
 <blockquote>
-    <p><i>
-        I'm Software Engineering student at 42 Rio and I into subjects like Computer Science, Linux, Cloud Computing/Devops, Cybersecurity and Software Engineering. I also love Vim.
-    </i></p>    
+    <p><i> I'm a Software Engineering student at 42 Rio, and I'm into subjects like Computer Science, Linux, Cloud Computing/DevOps, Cybersecurity and Software Engineering. I also love Vim.</i></p>    
 </blockquote>
 </div>
 
