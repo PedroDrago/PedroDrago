@@ -9,7 +9,7 @@
 
 <blockquote>
     <p><i>
-        Estudante de Engenharia de Software na escola 42 Rio. Gosto de assuntos como engenharia de software, Linux, Cloud Computing, Vim e ciência da computação como um todo.
+        I'm Software Engineering student at [42 Rio](https://42.rio/) and I into subjects like Computer Science, Linux, Cloud Computing/Devops, Cybersecurity and Software Engineering. I also love Vim.
     </i></p>    
 </blockquote>
 </div>
@@ -19,6 +19,8 @@
 <br>
 
 ---
+<p>Technologies i've Used in Projects</p>
+
 
           
 <div align="center">
