@@ -19,8 +19,9 @@
 <br>
 
 ---
+<div align="center">
 <p>Technologies i've Used in Projects</p>
-
+</div>
 
           
 <div align="center">
