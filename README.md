@@ -22,7 +22,7 @@
 <div align="center">
 <p>Technologies i've Used in Projects</p>
 </div>
-<div>
+<div display="inline">
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />          
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />          
