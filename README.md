@@ -9,7 +9,7 @@
 
 <blockquote>
     <p><i>
-        I'm Software Engineering student at ![42 Rio](https://42.rio/) and I into subjects like Computer Science, Linux, Cloud Computing/Devops, Cybersecurity and Software Engineering. I also love Vim.
+        I'm Software Engineering student at [42 Rio](https://42.rio/) and I into subjects like Computer Science, Linux, Cloud Computing/Devops, Cybersecurity and Software Engineering. I also love Vim.
     </i></p>    
 </blockquote>
 </div>
@@ -22,7 +22,7 @@
 <div align="center">
 <p>Technologies i've Used in Projects</p>
 </div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />          
+<img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />     
