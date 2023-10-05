@@ -9,7 +9,7 @@
 
 <blockquote>
     <p><i>
-        I'm Software Engineering student at [42 Rio](https://42.rio/) and I into subjects like Computer Science, Linux, Cloud Computing/Devops, Cybersecurity and Software Engineering. I also love Vim.
+        I'm Software Engineering student at ![42 Rio](https://42.rio/) and I into subjects like Computer Science, Linux, Cloud Computing/Devops, Cybersecurity and Software Engineering. I also love Vim.
     </i></p>    
 </blockquote>
 </div>
