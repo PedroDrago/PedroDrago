@@ -14,10 +14,6 @@
 </blockquote>
 </div>
 
-<br>
-<br>
-<br>
-
 ---
 <div align="center">
     <p>Technologies i've Used in Projects</p>
