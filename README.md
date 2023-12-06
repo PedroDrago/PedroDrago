@@ -23,9 +23,7 @@
     <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
 </div>
 
----
 
-    
 <div align="center">
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDrago&layout=compact&theme=transparent)
