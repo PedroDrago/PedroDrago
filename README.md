@@ -7,6 +7,9 @@
     <blockquote>
         <p><i> I'm a Software Engineering student at 42 Rio, and I'm into subjects like Computer Science, Linux, Cloud Computing/DevOps, Cybersecurity and Software Engineering. I also love Vim.</i></p>    
     </blockquote>
+    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroDrago&repo=42&theme=transparent)](https://github.com/PedroDrago/42)
+
 </div>
 
 ---
@@ -27,13 +30,15 @@
 <div align="center">
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDrago&layout=compact&theme=transparent&hide_progress=true&hide=shell,html,css)
-
 </div>
 
 ---
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-drago/)
+
+---
+
 </div>
 
 
