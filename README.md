@@ -13,7 +13,7 @@
     
 
 </div>
-
+<!--
 ---
 <div align="center">
     <p>Technologies i've Used in Projects</p>
@@ -28,13 +28,11 @@
     <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
 </div>
 
-
+<!--
 <div align="center">
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDrago&layout=compact&theme=transparent&hide_progress=true&hide=shell,html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDrago&layout=compact&theme=transparent&hide_progress=true&hide=shell,html,css)a
 </div>
-
----
+--->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-drago/)
