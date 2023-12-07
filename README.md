@@ -8,7 +8,7 @@
         <p><i> I'm a Software Engineering student at 42 Rio, and I'm into subjects like Computer Science, Linux, Cloud Computing/DevOps, Cybersecurity and Software Engineering. I also love Vim.</i></p>    
     </blockquote>
     
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroDrago&repo=42&theme=transparent)](https://github.com/pedrodrago/42)
     
 
 </div>
