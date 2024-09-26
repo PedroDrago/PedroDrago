@@ -1,7 +1,7 @@
 <h1 align="center"> Pedro Drago </h1>
     
 <div align="center">
-    <b>Software Engineering | Linux enthusiast 🐧 | VimNinja Wannabe 🥷 </b>
+    <b>Software Engineering | Linux enthusiast | VimNinja Wannabe </b>
     <br>
     <br>
     <blockquote>
