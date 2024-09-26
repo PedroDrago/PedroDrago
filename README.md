@@ -5,7 +5,7 @@
     <br>
     <br>
     <blockquote>
-        <p><i> I'm a Software Engineering student at 42 Rio, and I'm into subjects like Computer Science, Linux, DevOps, Systems Design, FOSS, Systems Programming, DevTools Development, Programming Languages Design and Vim.</i></p>    
+        <p><i> I'm into subjects like Computer Science, Linux, DevOps, Systems Design, FOSS, Systems Programming, DevTools Development, Programming Languages Design and Vim.</i></p>    
     </blockquote>
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroDrago&repo=42&theme=transparent)](https://github.com/pedrodrago/42)
